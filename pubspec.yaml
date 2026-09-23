@@ -26,5 +26,5 @@ flutter:
   uses-material-design: true
 
   assets:
-   - assets/cat_dog_model.tflite
-   - assets/animal_detection_float32.tflite
+    - assets/models/cat_dog_model.tflite
+    - assets/models/efficientdet_lite0_detection.tflite
