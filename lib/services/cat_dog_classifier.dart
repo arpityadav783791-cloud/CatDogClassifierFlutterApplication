@@ -1,6 +1,5 @@
 import 'dart:typed_data';
-
-import 'package:tflite_flutter/tflite_flutter.dart';
+import 'package:flutter_litert/flutter_litert.dart';
 
 import 'image_preprocessor.dart';
 
